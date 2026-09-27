@@ -1,0 +1,8 @@
+{
+  "nome": "Cliente Exemplo",
+  "perfil_risco": "moderado",
+  "possui_reserva_emergencia": false,
+  "objetivo_principal": "organizar os gastos e comecar a investir com seguranca",
+  "conhecimento_financeiro": "iniciante",
+  "renda_mensal_aproximada": 4500.00
+}

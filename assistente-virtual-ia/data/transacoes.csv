@@ -1,0 +1,16 @@
+data,categoria,descricao,valor
+2025-10-02,moradia,Aluguel,1380.00
+2025-10-03,alimentacao,Supermercado Extra,310.50
+2025-10-05,transporte,Combustivel,180.00
+2025-10-07,alimentacao,Restaurante,89.90
+2025-10-08,lazer,Cinema,60.00
+2025-10-10,saude,Farmacia,75.30
+2025-10-12,alimentacao,Ifood,120.00
+2025-10-14,transporte,Uber,95.40
+2025-10-16,educacao,Curso online,49.90
+2025-10-18,alimentacao,Padaria,49.60
+2025-10-20,lazer,Streaming,39.90
+2025-10-22,saude,Academia,110.00
+2025-10-25,moradia,Conta de luz,145.00
+2025-10-25,moradia,Conta de agua,68.00
+2025-10-28,outros,Presente,90.00

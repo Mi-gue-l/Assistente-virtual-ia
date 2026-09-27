@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "CDB",
+    "tipo": "renda_fixa",
+    "descricao": "Titulo de credito emitido por bancos. O rendimento costuma ser atrelado a um percentual do CDI.",
+    "risco": "baixo"
+  },
+  {
+    "nome": "Tesouro Selic",
+    "tipo": "renda_fixa",
+    "descricao": "Titulo publico indicado para reserva de emergencia, com liquidez diaria e baixo risco.",
+    "risco": "baixo"
+  },
+  {
+    "nome": "Fundos Imobiliarios",
+    "tipo": "renda_variavel",
+    "descricao": "Fundos que investem em imoveis ou ativos ligados ao setor imobiliario, com pagamento periodico de rendimentos.",
+    "risco": "medio"
+  },
+  {
+    "nome": "Acoes",
+    "tipo": "renda_variavel",
+    "descricao": "Representam uma fracao de uma empresa. O investidor se torna socio e o preco varia conforme o mercado.",
+    "risco": "alto"
+  }
+]
